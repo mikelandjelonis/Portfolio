@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>About me</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Main</a>
+    </header>
+    <main>
+      <h1>Mihajlo Stankovic</h1>
+      <ul>
+        <li>I like playing games</li>
+        <li>I draw</li>
+        <li>I make websites</li>
+        <li>I play</li>
+      </ul>
+      <img src="https://mars.algoritmika.org/uploads/2021/04/sky-1871753_1280%201_0_1618254989.png" width="830px" height="550px"/>
+      <img src="https://media.istockphoto.com/id/959080376/photo/basketball.jpg?s=2048x2048&w=is&k=20&c=Mz3S0xcgpdIa0YHqpJV6hhI9HQx2GmrMRxkE6kjRicA=" width="830px" height="300px"/>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
