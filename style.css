@@ -22,9 +22,17 @@ h1{
 p{
     font-size: 25px;
     color: rgb(64, 165, 224);
-    border: rgb(64, 165, 224) 5px double;
+    
     padding: 5px;
 }
 footer{
     text-align: center;
+}
+h2{
+    font-size: 25px;
+    color: rgb(64, 165, 224);
+}
+li{
+    font-size: 20px;
+    color: rgb(64, 165, 224);
 }
