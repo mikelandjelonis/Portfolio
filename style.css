@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 252, 189);
+}
+
+.link-header{
+    font-size: 50px;
+    color: rgb(64, 165, 224);
+}
+header{
+    background-color: rgb(0, 252, 189);
+}
+.link-nav{
+    color: rgb(64, 165, 224);
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(64, 165, 224);
+}
+p{
+    font-size: 25px;
+    color: rgb(64, 165, 224);
+    border: rgb(64, 165, 224) 5px double;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+}
